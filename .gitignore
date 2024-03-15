@@ -33,3 +33,5 @@ fp-info-cache
 *.drawio
 notes/
 sym-lib-table
+*auto_saved_files*
+*.lck
