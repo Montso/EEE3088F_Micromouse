@@ -8,8 +8,9 @@
     (title "Micromouse Power")
     (date "2024-03-18")
     (rev "v0.0.0")
-    (comment 1 "@author Montso Mokake")
-    (comment 2 "@partner Bokang Lepolesa")
+    (company "Group 55")
+    (comment 1 "@author Montso Mokake, MKKMON002")
+    (comment 2 "@partner Bokang Lepolesa, LPLBOK002")
     (comment 3 "@presented_for EEE3088F Project")
   )
 
