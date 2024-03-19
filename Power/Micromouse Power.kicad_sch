@@ -2253,7 +2253,7 @@
     (property "Value" "SW_SPST" (at 76.835 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 74.93 53.34 0)
+    (property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A" (at 74.93 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 74.93 53.34 0)
