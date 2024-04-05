@@ -8061,7 +8061,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp acdc2c58-e16a-441c-b3cc-97fa7c8d21cd))
   (gr_line (start 139.676911 117.244934) (end 143.812432 112.661786)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f636f50d-cc23-4b56-8d8d-a908502112bf))
-  (gr_text "Montso  Mokake\nMicromouse Power v0.0.0" (at 183.49 132.18) (layer "B.SilkS") (tstamp 6c8f7cfd-4b95-4876-aee2-a141f0217da8)
+  (gr_text "Montso  Mokake (MKKMON002)\nMicromouse Power v0.0.0" (at 183.49 132.18) (layer "B.SilkS") (tstamp 6c8f7cfd-4b95-4876-aee2-a141f0217da8)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
   (gr_text "m2a m2b gnd bat pd7 5v m1a m1b" (at 171.958 107.07) (layer "B.SilkS") (tstamp 8f4b732d-cdd4-44bf-8399-4b04e60b9338)
